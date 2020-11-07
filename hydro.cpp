@@ -53,9 +53,8 @@ int main(void)
 
 void displayHeader(){
 	
-	cout << "\nProgram: Flow Studies, Fall 2018."; 
+	cout << "\nProgram: Flow Studies."; 
 	cout << "\n Version: 1.0";
-	cout <<"\n Lab Section: B01";
 	cout <<"\n Produced by: Wajeeha Bushra";
 	pressEnter();
 }
