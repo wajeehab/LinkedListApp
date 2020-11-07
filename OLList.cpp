@@ -1,5 +1,4 @@
 // OLList.cpp
-// ENSF 337  Lab 8 Exercise C and D
 
 #include <iostream>
 #include <stdlib.h>
